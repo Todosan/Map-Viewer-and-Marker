@@ -1,8 +1,0 @@
-# Ignore build output folders
-bin/
-obj/
-
-# Ignore user settings and debug configs
-.vscode/
-Debug/
-Properties/launchSettings.json
